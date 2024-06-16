@@ -2,7 +2,7 @@
 
 👋 Hi, I'm **Ayush Anand**  
 📍 Patna, Bihar, India  
-🎓 Second-Year BE Student in Electronics and Communication Engineering at UIET, Panjab University  
+🎓 BE in Electronics and Communication Engineering at UIET, Panjab University  
 
 ---
 
