@@ -54,14 +54,6 @@ I am a passionate student and aspiring electronics engineer with a strong intere
 
 ---
 
-## Projects
-
-### 📘 Project Name
-- **Description**: Brief description of the project and its purpose.
-- **Technologies Used**: List of technologies used in the project.
-- **Link**: [GitHub Repository](#)
-
----
 
 ## Let's Connect!
 
