@@ -1,4 +1,4 @@
-# Ayush Anand
+
 
 👋 Hi, I'm **Ayush Anand**  
 📍 Patna, Bihar, India  
