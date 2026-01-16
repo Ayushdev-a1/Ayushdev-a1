@@ -8,7 +8,7 @@
 
 #💫 About Me:
 
-I am a passionate student and aspiring electronics engineer interested in web development. I enjoy creating innovative solutions and continuously learning new technologies to keep up with industry trends. 
+Software engineer with experience working on production-ready projects, including backend systems and end-to-end applications. Interested in building clean, maintainable software
 
 ---
 
