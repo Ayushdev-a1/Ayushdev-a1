@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-### Full Stack Developer · AI Builder · ECE Undergrad
+### Full Stack Developer · AI Builder 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=520&lines=Building+production-grade+software;Real-time+systems+%7C+AI+integration;WebRTC+%7C+Socket.io+%7C+Cloud+Architecture;Smart+India+Hackathon+2024+Winner+🏆)](https://git.io/typing-svg)
 
