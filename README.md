@@ -82,7 +82,7 @@ A systems-level tool for capturing, decoding, and analyzing network traffic.
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<div align="">
 
 **Languages**
 
